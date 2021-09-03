@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hackassen
+- 👀 I’m interested in developing projects based on OpenCart, PHP + Yii, Python + Pandas.  
+- 💞️ I’m looking to collaborate on interesting projects for a bit of fun with a bit of money. 
+- 📫 How to reach me: just mail me and if I do'nt consider it as a spam I will reply. 
